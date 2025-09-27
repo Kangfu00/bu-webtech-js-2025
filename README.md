@@ -1,0 +1,2 @@
+- Nickname: KangFu
+- Favorite: tonkantsu
